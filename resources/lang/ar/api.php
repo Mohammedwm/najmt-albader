@@ -1,0 +1,36 @@
+<?php
+
+return [
+    'customer' => 'زبون',
+    'driver' => 'سائق',
+    'merchant' => 'تاجر',
+    'unknown status' => 'حالة غير معروفة',
+    'male' => 'ذكر',
+    'female' => 'أنثى',
+    'male and female' => 'ذكر و أنثى',
+
+    'Saturday' => 'السبت',
+    'Sunday' => 'الأحد',
+    'Monday' => 'الأثنين',
+    'Tuesday' => 'الثلاثاء',
+    'Wednesday' => 'الأربعاء',
+    'Thursday' => 'الخميس',
+    'Friday' => 'الجمعة',
+    'Services' => 'الخدمات',
+    'Shops' => 'متاجر',
+    'delivery' => 'دليفري',
+    'pending' => 'قيد الانتظار',
+    'preparation' => 'تحضير',
+    'complete' => 'مكتمل',
+    'received' => 'استلم',
+    'preparation' => 'تجهيز',
+    'cancel' => 'إلغاء',
+    'active' => 'فعال',
+    'Available' => 'متاح',
+    'Closed' => 'مغلق',
+    'Busy' => 'مشغول',
+  'motorcycle' => 'دراجة نارية',
+  'big car' => 'سيارة كبيرة',
+  'small car' => 'سيارة صغيرة',
+
+];
